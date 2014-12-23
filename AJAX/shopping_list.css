@@ -1,0 +1,15 @@
+table {
+	width: 80%;
+}
+
+th {
+	min-width: 100px;
+}
+
+table, th, td {
+   border: 1px solid black;
+}
+
+.green {
+	background-color: green;
+}
