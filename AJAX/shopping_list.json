@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": 0,
+      "name": "myItem",
+      "quantity": 1,
+      "complete": false
+    },
+    {
+      "id": 1,
+      "name": "otherItem",
+      "quantity": 2,
+      "complete": true
+    },
+    {
+      "id": 2,
+      "name": "fds",
+      "quantity": 1,
+      "complete": false
+    }
+  ]
+}
